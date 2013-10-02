@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.8" maxVersion="1.8" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jLabel3" max="32767" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jButton1" max="32767" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <Component id="jButton2" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                              <Component id="jCheckBox1" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel2" max="32767" attributes="0"/>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel4" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel8" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel7" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel6" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="jLabel10" min="-2" pref="446" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="8" max="-2" attributes="0"/>
+              <Component id="jLabel2" min="-2" pref="85" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel3" min="-2" pref="66" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+              <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="2" max="-2" attributes="0"/>
+              <Component id="jButton1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jButton2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jCheckBox1" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jLabel6" min="-2" pref="25" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel10" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+              <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel8" pref="53" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x7b2c;&#x4e00;&#x6b65;:&#x5982;&#x679c;&#x4f60;&#x6253;&#x5f00;&#x4e86;iTunes,&#x5173;&#x95ed;&#x5b83;.&#x7136;&#x540e;&#x628a;&#x7535;&#x8111;&#x8fde;&#x4e0a;&#x4e92;&#x8054;&#x7f51;."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;&#xa;iTunes&#x4f1a;&#x628a;&#x5bfc;&#x5165;&#x7684;&#x6240;&#x6709;&#x6b4c;&#x6df7;&#x5728;&#x4e00;&#x8d77;,&#x8fd9;&#x6837;&#x4e0d;&#x597d;.&#x6240;&#x4ee5;&lt;br/&gt;&#xa;&#x8fd9;&#x4e2a;&#x5de5;&#x5177;&#x4f5c;&#x7528;&#x662f;:&lt;br/&gt;&#x628a;iTunes&#x91cc;&#x7684;&#x6b4c;&#x66f2;&#x6309;&#x539f;&#x6765;&#x6240;&#x5728;&#x7684;&#x6587;&#x4ef6;&#x5939;&#x5206;&#x7c7b;,&#x5e76;&#x521b;&#x5efa;&#x5bf9;&#x5e94;&#x7684;&#x64ad;&#x653e;&#x5217;&#x8868;. &lt;br /&gt;&#xa;&#x8ba9;&#x6211;&#x4eec;&#x80fd;&#x6309;&#x7167;&#x5728;windows&#x4e0a;&#x7684;&#x4f7f;&#x7528;&#x4e60;&#x60ef;&#x6765;&#x7ba1;&#x7406;iTunes&#x4e0a;&#x7684;&#x6b4c;&#x66f2;.&#xa;&lt;/html&gt;&#xa;"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt; &lt;p&gt;&#x7b2c;&#x4e8c;&#x6b65;: &#x627e;&#x5230; iTunes &#x6587;&#x4ef6;&#x5939;&#xff08;&#x5c31;&#x662f;&#x5305;&#x542b; iTunes Library.itl &#x548c; iTunes Library.xml &#x6587;&#x4ef6;&#x7684;&#x6587;&#x4ef6;&#x5939;&#xff09;&#x3002;&lt;/p&gt; &lt;p&gt;&#x5bf9;&#x4e8e;win7,&#x5b83;&#x901a;&#x5e38;&#x5728;&quot;C:\u005cUsers\u005c[&#x7528;&#x6237;&#x540d;]\u005c&#x6211;&#x7684;&#x97f3;&#x4e50;\u005ciTunes&quot;&#x6216;&quot;&#x5e93;\u005c&#x97f3;&#x4e50;\u005ciTunes&quot;&#x6216;&quot;&#x5f00;&#x59cb;&#x83dc;&#x5355;-&gt;&#x97f3;&#x4e50;&quot;&lt;/p&gt;&#xa;&#x628a;&#x9f20;&#x6807;&#x505c;&#x7559;&#x5728;&#x8fd9;&#x91cc;&#x770b;&#x63d0;&#x793a;.&lt;/html&gt;" containsInvalidXMLChars="true"/>
+        <Property name="toolTipText" type="java.lang.String" value="&lt;html&gt;&lt;br/&gt;&lt;div&gt;   &lt;table cellspacing=&quot;0&quot; cellpadding=&quot;6&quot; border=&quot;1&quot; id=&quot;kbtable&quot;&gt;     &lt;tbody&gt;       &lt;tr id=&quot;header&quot;&gt;         &lt;td nowrap=&quot;nowrap&quot;&gt;&#x64cd;&#x4f5c;&#x7cfb;&#x7edf;&lt;/td&gt;         &lt;td nowrap=&quot;nowrap&quot;&gt;iTunes &#x6587;&#x4ef6;&#x5939;&#x7684;&#x9ed8;&#x8ba4;&#x4f4d;&#x7f6e;&lt;/td&gt;       &lt;/tr&gt;       &lt;tr&gt;         &lt;td nowrap=&quot;nowrap&quot;&gt;Mac OS X&lt;/td&gt;         &lt;td nowrap=&quot;nowrap&quot;&gt;/&#x7528;&#x6237;/[&#x7528;&#x6237;&#x540d;]/&#x97f3;&#x4e50;&lt;/td&gt;       &lt;/tr&gt;       &lt;tr&gt;         &lt;td nowrap=&quot;nowrap&quot;&gt;Microsoft Windows XP&lt;/td&gt;         &lt;td nowrap=&quot;nowrap&quot;&gt;\u005cDocuments and Settings\u005c[&#x7528;&#x6237;&#x540d;]\u005cMy Documents\u005c&#x6211;&#x7684;&#x97f3;&#x4e50;\u005c&lt;/td&gt;       &lt;/tr&gt;       &lt;tr&gt;         &lt;td nowrap=&quot;nowrap&quot;&gt;Microsoft Windows Vista&lt;/td&gt;         &lt;td nowrap=&quot;nowrap&quot;&gt;\u005c&#x7528;&#x6237;\u005c[&#x7528;&#x6237;&#x540d;]\u005c&#x97f3;&#x4e50;\u005c&lt;/td&gt;       &lt;/tr&gt;       &lt;tr&gt;         &lt;td nowrap=&quot;nowrap&quot;&gt;Microsoft Windows 7&lt;/td&gt;         &lt;td nowrap=&quot;nowrap&quot;&gt;\u005c&#x7528;&#x6237;\u005c[&#x7528;&#x6237;&#x540d;]\u005c&#x6211;&#x7684;&#x97f3;&#x4e50;\u005c&lt;/td&gt;       &lt;/tr&gt;     &lt;/tbody&gt;   &lt;/table&gt; &lt;/html&gt;" containsInvalidXMLChars="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x7b2c;&#x4e09;&#x6b65;:&#x9009;&#x62e9;iTunes&#x6587;&#x4ef6;&#x5939;&#x4e0b;&#x7684;iTunes Library.xml&#x6587;&#x4ef6;:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x9009;&#x62e9;&#x6587;&#x4ef6;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x7b2c;&#x56db;&#x6b65;:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jButton2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x5f00;&#x59cb;!"/>
+        <Property name="enabled" type="boolean" value="false"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;&#x7b2c;&#x4e94;&#x6b65;:&#x6253;&#x5f00;iTunes,&#x6309;alt&#x952e;&#x5f39;&#x51fa;&#x83dc;&#x5355;&#x680f;,&#x9009;&#x62e9;&#x8d44;&#x6599;&#x5e93;-&gt;&#x5bfc;&#x5165;&#x64ad;&#x653e;&#x5217;&#x8868;-&gt;&#x9009;&#x62e9;&#x8fd9;&#x4e2a;&#x6587;&#x4ef6;: &lt;/html&gt;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x7b2c;&#x516d;&#x6b65;:&#x7136;&#x540e;&#x5c31;&#x6ca1;&#x6709;&#x7136;&#x540e;&#x4e86;..."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&lt;html&gt;P.S.&#x628a;&#x64ad;&#x653e;&#x5217;&#x8868;&#x3010;&#x6279;&#x91cf;&#x3011;&#x540c;&#x6b65;&#x5230;iPad/iPhone&#x7684;&#x65b9;&#x6cd5;:&#x5728;iTunes&#x91cc;&#x70b9;&#x51fb;&quot;iPad&quot;/&quot;iPhone&quot;&#x2192;&quot;&#x97f3;&#x4e50;&quot;&#x2192;&quot;&#x540c;&#x6b65;&#x97f3;&#x4e50;.&quot;&lt;br/&gt;&#x8fd9;&#x4e2a;&#x5de5;&#x5177;&#x5bf9;&#x539f;&#x6765;&#x7684;&#x8d44;&#x6599;&#x5e93;&#x505a;&#x4e86;&#x5907;&#x4efd;.&lt;br/&gt;&#x5982;&#x679c;&#x51fa;&#x73b0;&#x4e86;&#x95ee;&#x9898;,&#x628a;iTunes&#x6587;&#x4ef6;&#x5939;&#x4e0b;&#x7684;&quot;iTunes Library&#x5907;&#x4efd;.itl&quot;&#x8fd8;&#x539f;&#x56de;&#x53bb;&#x5373;&#x53ef;.&lt;/html&gt;"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel10">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" size="12" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="iTunes\u005c&#x5206;&#x7c7b;&#x540e;&#x7684;&#x64ad;&#x653e;&#x5217;&#x8868;.xml" containsInvalidXMLChars="true"/>
+        <Property name="horizontalTextPosition" type="int" value="4"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="jCheckBox1">
+      <Properties>
+        <Property name="selected" type="boolean" value="true"/>
+        <Property name="text" type="java.lang.String" value="&#x5220;&#x9664;&#x5168;&#x90e8;&#x539f;&#x6709;&#x7684;&#x64ad;&#x653e;&#x5217;&#x8868;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jCheckBox1ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
